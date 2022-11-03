@@ -77,4 +77,12 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.3"
     //coil
     implementation("io.coil-kt:coil-compose:2.2.2")
+
+    //icons extended
+    implementation "androidx.compose.material:material-icons-extended:$compose_ui_version"
+
+
+    // Pagination
+    implementation "androidx.paging:paging-compose:1.0.0-alpha17"
+
 }
